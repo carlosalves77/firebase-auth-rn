@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007081102061",
+    "project_id": "auth-tutorial-rn-7c8a0",
+    "storage_bucket": "auth-tutorial-rn-7c8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007081102061:android:929c71ea4bdd531414cae4",
+        "android_client_info": {
+          "package_name": "com.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007081102061-ae334vhcgi7lsf9i2vsma0tnrjlnsp14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4ptSB27wOxi5T6Ye7ByPBoaKbSSCRLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007081102061-ae334vhcgi7lsf9i2vsma0tnrjlnsp14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
