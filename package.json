@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-native-firebase/app": "^18.1.0",
+    "@react-native-firebase/auth": "^18.1.0",
     "react": "18.1.0",
     "react-native": "0.70.10",
     "styled-components": "^6.0.1"
